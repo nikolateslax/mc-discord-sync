@@ -1,0 +1,1 @@
+This is a Discord Role Whitelist for MC Servers. Not functional yet.
